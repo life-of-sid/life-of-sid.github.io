@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Using emjois this is me in a nutshell... 👨🏼‍🎨 ⚽️ 🎹 ✍🏼 😎 ✌🏼 🕺🏻 👨🏻‍💼  
+title: Using emojis this is me in a nutshell... 👨🏼‍🎨 ⚽️ 🎹 ✍🏼 😎 ✌🏼 🕺🏻 👨🏻‍💼  
 permalink: /about
 comments: false
 image: assets/images/sid.jpg
