@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Our Mother Nature
+title: Mother Nature
 author: sid
 categories:
   - Poetry
